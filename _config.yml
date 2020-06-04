@@ -6,7 +6,7 @@ url                          : "" # the base hostname & protocol for your site
 
 blog:
   title                      : debre.de
-  description                : Alles wissenswerte über mich und meine Projekte
+  description                : Alles Wissenswerte über mich und meine Projekte
   
 # Layout configuration
   logo_path                  : "assets/img/debre.svg" # path to logo file
