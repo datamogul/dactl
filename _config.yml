@@ -1,14 +1,13 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/dactl" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
   title                      : debre.de
-  description                  : >
-                               this should contain a proper description
-
+  description                : Alles wissenswerte über mich und meine Projekte
+  
 # Layout configuration
   logo_path                  : "assets/img/debre.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
