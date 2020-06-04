@@ -18,8 +18,10 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Kurzes Hallo! :) 
+## Overcloking & Olivenöl :) 
 
-Hi, Du befindest dich auf meiner privaten Webseite. Hier kannst Du gerne stöbern und eventuell das eine oder andere Interessante finden. Lass es mich wissen, wenn Dir etwas besonders gut gefallen hat. Nun wünsche ich Dir viel Spaß!
+Hi, Du befindest dich auf meiner privaten Webseite. Wenn Du dich allgemein für Computerhardware, speziell Grafikkarten, Monitore, Overclocking, Undervolting, Netzwerktechnik, Firewalling und Benchmarking von eben genannten interessierst, wirst Du hier bestimmt Spaß haben.
+
+Wenn Du zusätzlich Olivenöl liebst, Fisch lecker und die mediterrane Küche toll findest könnten wir seelenverwandt sein; Und falls nicht, nobody is perfect! Du kannst trotzdem gerne stöbern und eventuell das eine oder andere Interessante finden. Lass es mich wissen, wenn Dir etwas besonders gut gefallen hat. Nun wünsche ich Dir viel Spaß!
 
 </div>
